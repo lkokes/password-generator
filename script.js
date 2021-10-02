@@ -34,10 +34,13 @@ function genPassword(){
     }
 
     output.value = str;
+
+    if (str === ''){
+        alert("Check at least 1 checkbox")
+    }
 }
 
 function copyClipboard(){
     output.select();
     document.execCommand('copy');
-    alert("Password coppied!");
 }
