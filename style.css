@@ -18,7 +18,7 @@ body {
   padding: 45px 30px;
   position: absolute;
   transform: translate(-50%, -50%);
-  top: 50%;
+  top: 41%;
   left: 50%;
   border-radius: 25px;
   box-shadow: 0 15px 20px rgb(87 84 141);
@@ -77,4 +77,15 @@ h3 {
   margin-left: 3%;
   border-radius: 3px;
   font-size: 16px;
+}
+
+.checkbox {
+  font-size: 18px;
+  font-weight: bold;
+  width: 45%;
+  position: absolute;
+  top: 60%;
+  left: 30%;
+  word-spacing: 1px;
+  line-height: 31px;
 }
