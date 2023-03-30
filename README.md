@@ -1,6 +1,5 @@
-Aplikácia pre generovanie náhodných hesiel.
-Pre vytvorenie hesla je potrebné zadať jeho dĺžku (8-20 znakov) a označiť zaškrtnutím políčok, aké typy znakov sa v hesle majú vyskytovať.
-Po kliknutí na ikonu so šípkami sa vygeneruje nové heslo.
-Aplikácia bola vytvorená pomocou online tutoriálu.
+An application for generating random passwords. 
+To create a password, it is necessary to enter its length (8-20 characters) and indicate by ticking the boxes what types of characters should appear in the password. After clicking on the arrow icon, a new password will be generated. 
+The application was created using an online tutorial.
 
 ![alt text](./img/password-generator.png)
